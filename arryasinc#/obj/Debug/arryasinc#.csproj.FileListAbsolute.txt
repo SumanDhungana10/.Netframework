@@ -1,8 +1,0 @@
-C:\Users\Admin\Desktop\.net\arryasinc#\obj\Debug\arryasinc#.csproj.AssemblyReference.cache
-C:\Users\Admin\Desktop\.net\arryasinc#\obj\Debug\arryasinc#.csproj.SuggestedBindingRedirects.cache
-C:\Users\Admin\Desktop\.net\arryasinc#\obj\Debug\arryasinc#.csproj.CoreCompileInputs.cache
-C:\Users\Admin\Desktop\.net\arryasinc#\bin\Debug\arryasinc#.exe.config
-C:\Users\Admin\Desktop\.net\arryasinc#\bin\Debug\arryasinc#.exe
-C:\Users\Admin\Desktop\.net\arryasinc#\bin\Debug\arryasinc#.pdb
-C:\Users\Admin\Desktop\.net\arryasinc#\obj\Debug\arryasinc#.exe
-C:\Users\Admin\Desktop\.net\arryasinc#\obj\Debug\arryasinc#.pdb
