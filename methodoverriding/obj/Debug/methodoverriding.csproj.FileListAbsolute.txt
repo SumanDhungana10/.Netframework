@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\.net\methodoverriding\bin\Debug\methodoverriding.exe.config
+C:\Users\Admin\Desktop\.net\methodoverriding\bin\Debug\methodoverriding.exe
+C:\Users\Admin\Desktop\.net\methodoverriding\bin\Debug\methodoverriding.pdb
+C:\Users\Admin\Desktop\.net\methodoverriding\obj\Debug\methodoverriding.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\.net\methodoverriding\obj\Debug\methodoverriding.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\.net\methodoverriding\obj\Debug\methodoverriding.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\.net\methodoverriding\obj\Debug\methodoverriding.exe
+C:\Users\Admin\Desktop\.net\methodoverriding\obj\Debug\methodoverriding.pdb
